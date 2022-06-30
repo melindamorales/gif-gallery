@@ -1,0 +1,23 @@
+{
+  "name": "gif-gallery",
+  "version": "1.0.0",
+  "description": "creating a project directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melindamorales/gif-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melindamorales/gif-gallery/issues"
+  },
+  "homepage": "https://github.com/melindamorales/gif-gallery#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
